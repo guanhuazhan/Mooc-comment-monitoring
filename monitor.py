@@ -57,9 +57,9 @@ def get_webInfo(url):
     return info_text+'\n'+info_link+'\n'+today+'\n'
 
 def send_email(title, article, receiver):
-    host = 'smtp.zdq.space'
-    user = 'hua@zdq.space'
-    password = 'zgh324#@$'
+    host = 'xxxx.xxx.xxxx'
+    user = 'xxx@xxx.xxxxx'
+    password = 'xxx#@$'
     sender = user
     coding = 'utf8'
     
